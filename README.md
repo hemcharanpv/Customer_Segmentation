@@ -1,3 +1,3 @@
 # Project_1
-Customer segmentation
+Customer segmentation, 
 Clustering the customers using the data collected.
